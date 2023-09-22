@@ -1,0 +1,15 @@
+.user-painel {
+    padding: 5px;
+  
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+  
+    text-align: center;
+    z-index: 0;
+  }
+
+.h1, .h3 {
+    margin: 5px;
+}
