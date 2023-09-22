@@ -8,7 +8,6 @@ versão: 221101
 
     FEITO POR: https://github.com/RoneyVanique
 
-[![preview](./preview.png)](https://lucasats.github.io/Sorteador-de-numeros/)
 [🔗 ACESSE O PROJETO ](https://lucasats.github.io/Sorteador-de-numeros/)
 
 ## __📂 PLAY__
